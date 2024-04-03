@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! I'm Shem Macapobres</h2>
 
 ###
@@ -12,11 +10,11 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning vue 3, next.js, laravel 10<br>💬 Feel free to reach out with any questions about web development technologies – I'm always eager to assist!<br>👨‍💻 All of my personal projects/learnings are available at https://github.com/macrepository<br>📄 Know about my experiences https://<br>📫 How to reach me macapobresshem@gmail.com</p>
+<p align="left">🌱 I’m currently learning vue 3, next.js, laravel 10<br>💬 Feel free to reach out with any questions about web development technologies – I'm always eager to assist!<br>👨‍💻 All of my personal projects/learnings are available at https://github.com/macrepository<br>📄 Know about my experiences https://<br>📫 How to reach me email</p>
 
 ###
 
-<h2 align="left">Tools</h2>
+<h2 align="left">⚒️  Tools</h2>
 
 ###
 
@@ -134,11 +132,13 @@
 
 ###
 
-<br clear="both">
+<h3 align="left">📊 Github Statistics</h3>
+
+###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macrepository&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=macrepository&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macrepository&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=macrepository&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
