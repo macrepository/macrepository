@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning vue 3, next.js, laravel 10<br>💬 Feel free to reach out with any questions about web development technologies – I'm always eager to assist!<br>👨‍💻 All of my personal projects/learnings are available at https://github.com/macrepository<br>📄 Know about my experiences https://<br>📫 How to reach me email</p>
+－ 🌱 I’m currently learning **vue 3, next.js, laravel**
+  
+－ 💬 Feel free to reach out with any questions about web development technologies – I'm always eager to assist!
+
+－ 👨‍💻 All of my projects are available at [GitHub](https://github.com/macrepository)
+
+－ 📄 Know about my experiences [Resume Link](https://macapobresshem.jobs180.com/)
+
+－ 📫 How to reach me:
 
 ###
 
@@ -156,11 +164,12 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macrepository&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=macrepository&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=macrepository&show_icons=true&locale=en&layout=compact" alt="macrepository" height="200" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macrepository&show_icons=true&locale=en" alt="macrepository" height="200" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macrepository&" alt="macrepository" height="200" /></p>
 </div>
 
 ###
