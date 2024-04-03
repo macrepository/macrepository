@@ -14,6 +14,26 @@
 
 ###
 
+<div align="left">
+  <a href="mailto:macapobresshem@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="linkedin.com/in/shemmacapobres" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/shem1001/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/639394503849" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://fb.com/shem1001" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="left">⚒️  Tools</h2>
 
 ###
@@ -132,9 +152,11 @@
 
 ###
 
-<h3 align="left">📊 Github Statistics</h3>
+<h2 align="left">📊 Github Statistics</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macrepository&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
