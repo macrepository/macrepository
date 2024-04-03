@@ -46,7 +46,7 @@
 
 <h2 align="left">⚒️  Tools</h2>
 
-> The tools, languages, and frameworks mentioned below are utilized in my GitHub personal projects as well as in confidential projects outside of GitHub.
+> The tools, languages, platforms, frameworks, etc., mentioned below are utilized in my personal GitHub projects as well as in confidential projects outside of GitHub.
 
 ###
 
