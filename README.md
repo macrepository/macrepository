@@ -14,7 +14,7 @@
   
 － 💬 Feel free to reach out with any questions about web development technologies – I'm always eager to assist!
 
-－ 👨‍💻 All of my projects are available at [GitHub](https://github.com/macrepository)
+－ 👨‍💻 All of my personal projects/learnings are available at [GitHub](https://github.com/macrepository)
 
 － 📄 Know about my experiences [Resume Link](https://macapobresshem.jobs180.com/)
 
