@@ -102,8 +102,6 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap logo"  />
   
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="30" alt="JWT logo"  />
-  
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="30" alt="NPM logo"  />
 </div>
 
 ###
@@ -133,7 +131,7 @@
 
 ###
 
-<h3 align="left">Development Tools and Environments</h3>
+<h3 align="left">Development Tools, Version Control, and Environments</h3>
 
 ###
 
@@ -147,6 +145,10 @@
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="30" alt="vim logo"  />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" height="30" alt="Nodemon logo"  />
+  <img src="https://camo.githubusercontent.com/9191d73bdc9e1e3af68654bf91938699c39d2dfdec802a4f5cec8ea852313422/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7375626c696d655f746578742d2532333537353735372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7375626c696d652d74657874266c6f676f436f6c6f723d696d706f7274616e74253232" height="30" alt="Sublime logo"  />
+  <img src="https://camo.githubusercontent.com/a5febe8198d7744369192516c1a1f3f8873797a0149d07ecd5a8df2a4869fbf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c652532305368656574732d3334413835332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65253230736865657473266c6f676f436f6c6f723d7768697465" height="30" alt="Googlesheets logo"  />
+  <img src="https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" height="30" alt="postman logo"  />
+
 </div>
 
 ###
