@@ -10,6 +10,8 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=macrepository&label=Profile%20views&color=0e75b6&style=flat" alt="macrepository" /> </p>
+
 － 🌱 I’m currently learning **vue 3, next.js, laravel**
   
 － 💬 Feel free to reach out with any questions about web development technologies – I'm always eager to assist!
@@ -18,7 +20,7 @@
 
 － 📄 Know about my experiences [Resume Link](https://macapobresshem.jobs180.com/)
 
-－ 📫 How to reach me:
+－ 📫 How to reach me click below 👇:
 
 ###
 
