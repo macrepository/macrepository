@@ -18,7 +18,7 @@
 
 － 👨‍💻 All of my personal projects/learnings are available at [GitHub](https://github.com/macrepository)
 
-－ 📄 Know about my experiences [Resume Link](https://macapobresshem.jobs180.com/)
+－ 📄 Know about my experiences [Resume Link](https://github.com/macrepository/macrepository/blob/main/Macapobres-Resume-.pdf)
 
 － 📫 How to reach me? Please email me or click on any of the social accounts below. 👇:
 
