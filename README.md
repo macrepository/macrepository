@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macrepository&label=Profile%20views&color=0e75b6&style=flat" alt="macrepository" /> </p>
 
-－ 🌱 I’m currently learning **next.js and laravel**
+－ 🌱 I’m currently learning **laravel**
   
 － 💬 Feel free to reach out with any questions about web development technologies – I'm always eager to assist!
 
